@@ -4,6 +4,10 @@ channels:
   - defaults
 dependencies:
   - pip=20.3.3
+  - six
   - pandas=1.2.3
   - pip:
+      - databricks-cli==0.8.7
+      - protobuf==3.20.*
+      - numpy==1.23.4
       - wandb==0.13.9
