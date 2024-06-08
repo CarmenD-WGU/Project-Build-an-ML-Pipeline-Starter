@@ -1,5 +1,5 @@
 WANDB LINK:
-  https://wandb.ai/cden102_wgu/nyc_airbnb?nw=nwusercden102
+  https://wandb.ai/cden102_wgu/nyc_airbnb/workspace?nw=nwusercden102 
   The only options for this project that I have are private or team-only. There is no "public" option with the account that I have...
 
 Git Repo Link:
